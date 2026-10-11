@@ -1,4 +1,4 @@
-# 🐎 Carrera de Caballos
+# Barra de Progreso (Carrera de Caballos)
 
 Este pequeño proyecto fue desarrollado como respuesta a una actividad institucional.
 
